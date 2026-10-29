@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+
+# Secrets
+.env
+.env.*
+
+# Large local files
+*.bin
+*.safetensors
+*.pt
+models/
+
+# OS files
+.DS_Store
